@@ -1,0 +1,23 @@
+form div input {
+  padding: 2px 6px;
+  margin: 2px 4px;
+}
+
+form {
+  padding: 5px 10px;
+  margin: auto auto;
+}
+
+button[type="submit"] {
+  padding: 4px 16px;
+  font-weight: 700;
+  margin: 5px 0px;
+}
+
+.date{
+    display:block;
+}
+
+.start-time{
+    margin-right: 10px;
+}
